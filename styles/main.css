@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(16, 6, 81);
+    color:antiquewhite;
+     font-family:fantasy;
+}
+
+.sumbmission{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    background-color:rgb(18, 18, 149);
+    padding:10px;
+    justify-content: space-around;
+}
